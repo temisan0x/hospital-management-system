@@ -1,0 +1,22 @@
+body {
+    background-image: url('/img/nurses-heart-of-hospital.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    position: relative;
+}
+
+.submit {
+    transition: 0.5s;
+    box-shadow: 0 5px 20px rgb(21, 97, 197);
+}
+
+.jumbotron {
+    background-image: url('/img/nurses-heart-of-hospital.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    position: relative;
+}
